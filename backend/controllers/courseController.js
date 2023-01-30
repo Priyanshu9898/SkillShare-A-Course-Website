@@ -31,7 +31,7 @@ export const getAllCourses = catchAsyncError(async (req, res, next) => {
 export const createCourse = catchAsyncError( async (req, res, next) => {
 
     const {title, description , category, createdBy} = req.body;
-    // console.log(title, description, category, createdBy);
+    // console.log(title, description, category);
 
     if(!title || !description || !category || !createdBy){
         return next(new ErrorHandler("Please Add all Fields", 400));
