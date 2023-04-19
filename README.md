@@ -1,8 +1,6 @@
 
 # Skillshare-Course Sharing Platform with Interactive Admin Dashboard
 
-## Live Website: https://skillshare-pied.vercel.app/
-
 ## Project Description:
 
     The Skillshare-Course Sharing Platform is a dynamic and feature-rich web application that enables educators and learners to share, discover, and engage with a wide range of online courses. 
@@ -158,6 +156,9 @@ Open your browser and visit http://localhost:3000 to access the frontend of the 
 
 ![App Screenshot](https://i.postimg.cc/3xzY3yW6/Skill-Share-Brave-19-04-2023-22-35-15.png)
 
+![App Screenshot](https://i.postimg.cc/hj27ybP6/Skill-Share-Brave-19-04-2023-22-44-32.png)
+
+![App Screenshot](https://i.postimg.cc/tJ7nLZsT/Skill-Share-Brave-19-04-2023-22-45-16.png)
 
 
 ## 🔗 Links
