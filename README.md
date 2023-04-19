@@ -133,9 +133,6 @@ Start the backend development server
 Open your browser and visit http://localhost:3000 to access the frontend of the web application.
 ## Screenshots
 
-
-
-
 ![App Screenshot](https://i.postimg.cc/y8D7qh6c/Skill-Share-Brave-19-04-2023-22-18-16.png)
 
 ![App Screenshot](https://i.postimg.cc/CKfM8GWS/Skill-Share-Brave-19-04-2023-22-18-13.png)
@@ -143,14 +140,9 @@ Open your browser and visit http://localhost:3000 to access the frontend of the 
 ![App Screenshot](https://i.postimg.cc/wvX6f6qr/Skill-Share-Brave-19-04-2023-22-30-56.png)
 
 
-
-
 ![App Screenshot](https://i.postimg.cc/G2wLxBCY/Skill-Share-Brave-19-04-2023-22-31-12.png)
 
 ![App Screenshot](https://i.postimg.cc/m2XT6p4T/Skill-Share-Brave-19-04-2023-22-34-25.png)
-
-
-![App Screenshot](https://i.postimg.cc/KvvZfSd9/Skill-Share-Brave-19-04-2023-22-34-47.png)
 
 
 ![App Screenshot](https://i.postimg.cc/KvvZfSd9/Skill-Share-Brave-19-04-2023-22-34-47.png)
